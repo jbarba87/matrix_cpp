@@ -1,0 +1,11 @@
+README
+
+Program that perfor the multitplication of two matrices filled with random numbers
+
+Compile with:
+
+$ make
+
+and execute with:
+
+$ test_matrix
